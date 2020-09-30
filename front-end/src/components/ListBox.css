@@ -1,0 +1,20 @@
+.list-box{
+    display: inline-block;
+    vertical-align:top;
+    background-color: #fff;
+    height: 240px;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: solid 1px;
+    border-radius: 5%;
+
+}
+
+.task::before{
+    content: "- ";
+}
+
+.ellipsis {
+    content: "......";
+}

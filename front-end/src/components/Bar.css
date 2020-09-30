@@ -1,0 +1,12 @@
+.nav {
+    background-color: #f4a548;
+    margin: 0 0 3rem 0;
+  }
+
+  a {
+    color: rgba(0,0,0,.9);
+  }
+
+  a:hover{
+    color: #f6d198;
+  }
